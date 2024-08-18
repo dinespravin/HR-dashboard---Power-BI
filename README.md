@@ -8,7 +8,6 @@ Focused on finding the overall growth of a company in terms of an HR with the fo
 5) Top earners in each job
 6) Qualification vs. Salary
 7) Staff growth trend over time
-8) Employee filter by starting letter
-9) Leave balance analysis
+8) Leave balance analysis
 
 Finally to sum it up, a interactive dashboard is created
